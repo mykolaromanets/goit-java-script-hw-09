@@ -1,3 +1,4 @@
+// First task
 const btnStartEl = document.querySelector('[data-start]');
 console.log(btnStartEl);
 const btnStoptEl = document.querySelector('[data-stop]');
